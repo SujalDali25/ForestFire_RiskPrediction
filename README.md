@@ -1,5 +1,6 @@
 # ForestFire_RiskPrediction
 FireWatch : Forest Fire Risk Prediction System
+
 Overview
 This project implements machine learning models to predict forest fires in two regions of  (Bejaia and Sidi Bel-abbes) using meteorological and environmental data. The system analyzes various weather conditions and Fire Weather Index (FWI) components to classify the fire risk.
 
