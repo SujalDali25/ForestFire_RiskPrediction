@@ -1,7 +1,7 @@
 # ForestFire_RiskPrediction
-FireWatch Algeria: Forest Fire Risk Prediction System
+FireWatch : Forest Fire Risk Prediction System
 Overview
-This project implements machine learning models to predict forest fires in two regions of Algeria (Bejaia and Sidi Bel-abbes) using meteorological and environmental data. The system analyzes various weather conditions and Fire Weather Index (FWI) components to classify the fire risk.
+This project implements machine learning models to predict forest fires in two regions of  (Bejaia and Sidi Bel-abbes) using meteorological and environmental data. The system analyzes various weather conditions and Fire Weather Index (FWI) components to classify the fire risk.
 
 Dataset Description
 Time Period: June 2012 to September 2012
